@@ -20,12 +20,15 @@ There are currently 70 employees working under this company. They have a marketi
 
 ### Recommendation
 
+After analyzing the Current IT setup and the operation of the company, a hybrid cloud is recommended for them. The justifications of the recommendation is given below:
 
 - Now the employees share files through emails when someone needs to access them, which kills the time. Also when there is an update, the file needs to be sent again and confusion arises with multiple files. But the operation can become easy and simple if they have clouds. Employees will have quick access to the data over the cloud. The projects are based on different locations, in that case, employees need to work remotely from different project locations. It will be much easier for them if they can store their data in the cloud so that they can access it from anywhere and anytime. Therefore, having a cloud is very much essential for them at this time.
 
 - The company has an increasing number of customers. At present, they maintain an excel file to keep the customer data. But if they use Customer Relationship Management (CRM) software which can be run in a private cloud (Software as a Service - SaaS) they can be benefitted by the rapid reconstitution of their services. This way the data storage can be easy and a large amount of customer data can be saved and retrieved easily from anywhere and anytime using that cloud service.
 
 - Having a cloud based software will help the company manage the projects in a more organized and effective way. All the departments of the company will be linked with one another. The communication inside and outside the company will be easy with the help of the cloud. The company can have a hybrid cloud where they can manage the confidential documents (such as land deed, customer banking details etc.) and customized softwares in private cloud and other storages can be done in public cloud.
+
+- The company is using social media platforms for marketing. So, it is important to track the real time data for better analysis. Real time data needs a lot of storage which is not possible manually. Cloud helps to manage the real time data. Therefore, cloud is highly recommended for them.
 
 
 
