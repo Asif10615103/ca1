@@ -19,4 +19,9 @@ There are currently 70 employees working under this company. They have a marketi
 
 - The company has an increasing number of customers. At present, they maintain an excel file to keep the customer data. But if they use Customer Relationship Management (CRM) software which can be run in a private cloud (Software as a Service - SaaS) they can be benefitted by the rapid reconstitution of their services. This way the data storage can be easy and a large amount of customer data can be saved and retrieved easily from anywhere and anytime using that cloud service.
 
-- Having a cloud based software will help the company manage the projects in a more organized and effective way. All the departments of the company will be linked with one another. The communication inside and outside the company will be easy with the help of the cloud. The company can have a hybrid cloud where they can manage the confidential documents and customized softwares in private cloud and other storages can be done in public cloud.
+- Having a cloud based software will help the company manage the projects in a more organized and effective way. All the departments of the company will be linked with one another. The communication inside and outside the company will be easy with the help of the cloud. The company can have a hybrid cloud where they can manage the confidential documents (such as land deed, customer banking details etc.) and customized softwares in private cloud and other storages can be done in public cloud.
+
+
+### Conclusion
+
+Though HDDL has an online presence as mentioned above, that is only used as a promotion of their company to the outsiders but there is no cloud platform for their business which can be used regularly by their employees. As they are now dealing with more clients and many employees from different departments have to work together in a particular project to make it a successful one, I think there is no alternative for them other than having a hybrid cloud system.
