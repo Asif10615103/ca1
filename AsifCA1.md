@@ -1,7 +1,7 @@
-## Cloud Strategy of Hyperion Design & Development Ltd (HDDL)
+## Cloud Strategy of Hyperion Design & Development Ltd. (HDDL)
 
 
-### Background of the enterprise
+### Background of the Enterprise
 
 Hyperion Design & Development Ltd (HDDL) is one of the leading real estate companies in Bangladesh specializing in superior quality residential buildings in the prime location of Dhaka city. It has become a trusted name in the real estate sector in Bangladesh. During the last 13 years, the company has won the confidence and goodwill of its clients. Within a short span of time, Hyperion has grown into a renowned and dependable organization. This company is committed to ensure quality in each project and for that purpose the management gives attention in every aspect of a project. So it has developed an in-house design team for Architectural, structural, plumbing and electrical design. Hyperion has thirty engineers in the construction and development team in addition to its quality control, monitoring & construction management personnel. One of the strongest points of HDDL is its efficient Customer Service Department. This department gives personal attention to each client and is known for prompt & effective action. A warm friendly atmosphere is created for the clients who can make purchase decisions at his/her pace without feeling pressurized.
 
