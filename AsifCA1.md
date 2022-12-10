@@ -36,3 +36,9 @@ After analyzing the Current IT setup and the operation of the company, a hybrid 
 
 
 Though HDDL has an online presence as mentioned above, that is only used as a promotion of their company to the outsiders but there is no cloud platform for their business which can be used regularly by their employees. As they are now dealing with more clients and many employees from different departments have to work together in a particular project to make it a successful one, I think there is no alternative for them other than having a hybrid cloud system.
+
+
+
+### References
+
+- HDDL BD; Available at: https://hddlbd.com/ (Accessed: December 5, 2022). 
