@@ -53,7 +53,7 @@ function TodoListCard() {
         <React.Fragment>
             <AddItemForm onNewItem={onNewItem} />
             {items.length === 0 && (
-                <p className="text-center">Asif's CA1!</p>
+                <p className="text-center">Izu's assignment</p>
             )}
             {items.map(item => (
                 <ItemDisplay
@@ -106,7 +106,7 @@ function AddItemForm({ onNewItem }) {
                         disabled={!newItem.length}
                         className={submitting ? 'disabled' : ''}
                     >
-                        {submitting ? 'Adding...' : 'CA1 Submission'}
+                        {submitting ? 'Adding...' : 'Please Paul'}
                     </Button>
                 </InputGroup.Append>
             </InputGroup>
